@@ -14,7 +14,7 @@ export default function Pagina({ titulo, children }) {
             <Nav.Link href="/cursos">Cursos</Nav.Link>
             <Nav.Link href="/disciplinas">Disciplinas</Nav.Link>
             <Nav.Link href="/professores">Professores</Nav.Link>
-         
+            <Nav.Link href="/alunos">Alunos</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
